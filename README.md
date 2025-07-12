@@ -22,20 +22,7 @@ The machine produces and output for either the input being accepted or rejected(
 3 _ _ R 3\\\
 
 **Unary Subtraction -**
-6
-0 1 X R 1
-1 1 1 R 1
-1 # # R 2
-2 1 Y L 3
-2 Y Y R 2
-3 # # L 3
-3 1 1 L 3
-3 X X R 0
-0 # # R 4
-4 Y _ R 4
-4 _ _ R 5
-5 X 1 R 5
-5 _ _ L 6
+<pre> ```txt 6 0 1 X R 1 1 1 1 R 1 1 # # R 2 2 1 Y L 3 2 Y Y R 2 3 # # L 3 3 1 1 L 3 3 X X R 0 0 # # R 4 4 Y _ R 4 4 _ _ R 5 5 X 1 R 5 5 _ _ L 6 ``` </pre>
 
 **Unary Multiplication -**
 10
