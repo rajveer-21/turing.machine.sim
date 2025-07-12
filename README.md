@@ -9,7 +9,7 @@ Subsequent States - Transitions in the format - **(Origin state, Tape Character 
 The machine produces and output for either the input being accepted or rejected(machine halted).
 
 **Unary Additon -**
-3
+\\\txt 3
 0 1 1 R 0
 0 + + R 1
 1 1 1 R 1
@@ -19,7 +19,7 @@ The machine produces and output for either the input being accepted or rejected(
 3 + + L 3
 3 _ _ R 3
 3 _ _ R 3
-3 _ _ R 3
+3 _ _ R 3\\\
 
 **Unary Subtraction -**
 6
